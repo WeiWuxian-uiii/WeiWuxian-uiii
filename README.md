@@ -4,10 +4,6 @@
   <h1>
   Have a good day
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6bmR6Yzl2MmJ0Y2tjMHVvOHlpNTRvaWxnZDdpdnlsdnBmd2p6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAkTYrWeV1UHPo7xgS/giphy.gif" width="40px"/>
-  <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=Rhein+Sakatoku;Developer;Click+button+below+:3" alt="Typing SVG" />
-</h1>
-
 </h1>
 
   <div>
