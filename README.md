@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FycW54d2twZW9oMmEydWp2MWdseG1xdzBjeHFpOXNrbnVyejJ4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif" width="250"/>
-  
+  <p align="center">
+  <a href="https://WeiWuxian-uiii.github.io" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=WeiWuxian-uiii&style=flat-square&color=ff0066&label=visitors" />
+  </a>
+</p>
   <h1>
   Have a good day
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6bmR6Yzl2MmJ0Y2tjMHVvOHlpNTRvaWxnZDdpdnlsdnBmd2p6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAkTYrWeV1UHPo7xgS/giphy.gif" width="40px"/>
